@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+.accueil{
+    background: blue;
+    min-height: 100vh;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.bout{
+    padding: 10px;
+    background: white;
+}
+
+.a2{
+    min-height: 100vh;
+    background-color: green;
+}
+.a3{
+    min-height: 100vh;
+    background: red;
+}
